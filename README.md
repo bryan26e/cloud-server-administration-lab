@@ -59,4 +59,6 @@ Laboratorio local implementado y en fase de documentación técnica.
 
 ## Autor
 
+Bryan Daniel Mendez Barrios
+
 Proyecto personal de aprendizaje y desarrollo de habilidades en Linux Administration, Cloud Security y DevOps.
