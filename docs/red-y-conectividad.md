@@ -1,4 +1,4 @@
-# Fase 4: Red y acceso remoto SSH
+Red y acceso remoto SSH
 
 ## Objetivo
 Verificar la configuración de red de Ubuntu Server y habilitar su administración remota desde Windows.

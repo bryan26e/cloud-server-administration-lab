@@ -1,10 +1,10 @@
-# Fase 5: Servidor web Nginx
+## Servidor web Nginx
 
 ## Objetivo
 Instalar, configurar y verificar un servidor web en Ubuntu Server.
 
 ## Tecnologías
-- Ubuntu Server 24.04 LTS
+- Ubuntu Server 26.04.1 LTS
 - Nginx
 - SSH
 - VirtualBox con red NAT

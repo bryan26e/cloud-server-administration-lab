@@ -1,4 +1,4 @@
-## Fase 7 — Configuración inicial del firewall
+### Configuración inicial del firewall
 
 ### Herramienta
 UFW (Uncomplicated Firewall).
